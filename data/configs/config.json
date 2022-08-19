@@ -1,0 +1,7 @@
+{
+  "log_mode": 1,
+  "time_to_decid": 28,
+  "delay_for_soung": 18.5,
+  "time_to_define_if_the_hand_is_left_or_right": 15,
+  "video_capture": 0
+}
